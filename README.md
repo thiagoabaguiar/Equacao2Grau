@@ -1,7 +1,8 @@
 # Equacao2Grau
 
 EM DESENVOLVIMENTO
-- Delta Ok
-- Raízens Não-Ok
+- Delta OK
+- Raízens NOK
+- Equação Completa X Incompleta NOK
 
-Programa para cálculo de Equção do 2º grau.
+Programa para cálculo de Equação do 2º grau.
