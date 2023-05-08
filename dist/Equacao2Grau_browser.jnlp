@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Equacao2Grau_browser.jnlp">
+  <information>
+    <title>Equacao2Grau</title>
+    <vendor>CS384038</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Equacao2Grau.jar" size="5363" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="classes.frameTelaInicial"  name="Equacao2Grau" >
+  </applet-desc>
+  <update check="always"/>
+</jnlp>
